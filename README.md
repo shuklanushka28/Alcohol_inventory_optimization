@@ -10,4 +10,4 @@
 <img src="alcohol_inventory_21_0.png" alt="Forecast" width="500"/>
 
 <h3> heapmap</h3>
-<img src="alcohol_inventory_34_0.png" alt="Forecast" width="500"/>
+<img src="alcohol_inventory_43_0.png" alt="Forecast" width="500"/>
