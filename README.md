@@ -1,4 +1,4 @@
-## 📊 Visual Insights
+## Acholoh Inventory Optimization
 
 <h3> Dashboard Overview</h3>
 <img src="alcohol_inventory_11_1.png" alt="Dashboard" width="500"/>
