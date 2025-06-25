@@ -8,3 +8,6 @@
 
 ### 🔹 Overstock Frequency Heatmap
 ![Heatmap](alcohol_inventory_21_0.png)
+
+### 🔹 Overstock Frequency Heatmap
+![Heatmap](alcohol_inventory_43_0.png)
