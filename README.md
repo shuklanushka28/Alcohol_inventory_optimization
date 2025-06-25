@@ -1,13 +1,13 @@
 ## 📊 Visual Insights
 
-### 🔹 Dashboard Overview
-![Dashboard](alcohol_inventory_11_1.png)
+<h3> Dashboard Overview</h3>
+<img src="alcohol_inventory_11_1.png" alt="Dashboard" width="500"/>
 
-### 🔹 Reorder Quantity Forecast
-![Reorder Forecast](alcohol_inventory_20_0.png)
+<h3> Reorder Forecast</h3>
+<img src="alcohol_inventory_20_0.png" alt="Forecast" width="500"/>
 
-### 🔹 Overstock Frequency Heatmap
-![Heatmap](alcohol_inventory_21_0.png)
+<h3> Overstock Frequency Heatmap </h3>
+<img src="alcohol_inventory_21_0.png" alt="Forecast" width="500"/>
 
-### 🔹 Overstock Frequency Heatmap
-![Heatmap](alcohol_inventory_43_0.png)
+<h3> heapmap</h3>
+<img src="alcohol_inventory_34_0.png" alt="Forecast" width="500"/>
